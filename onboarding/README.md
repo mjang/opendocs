@@ -1,5 +1,7 @@
 # [Writing onboarding toolkit](https://github.com/google/opendocs/blob/main/onboarding/README.md)
 
+This is a dedicated detached fork of the noted Writing onboarding toolkit.
+
 A resource to help you develop or improve writer onboarding information in your organization. This toolkit is a companion to the talk "Level up - Onboarding that enables writers to thrive" for [Write the Docs Portland 2021](https://www.writethedocs.org/conf/portland/2021/).
 
 The [toolkit](onboarding-toolkit.md) provides a checklist of content to consider for your onboarding, as well as resources to support you.

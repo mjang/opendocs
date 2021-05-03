@@ -8,17 +8,17 @@ includes a checklist that helps you to:
 -  Identify and prioritize information your writer needs
 -  Support continued learning after initial onboarding
 -  Provide pathways for long-term growth
--  Find resources and examples to use for your writer onboarding 
+-  Find resources and examples to use for your writer onboarding
 
 ### Using the toolkit
 
 Writer onboarding is like a map. It highlights key information and helps a
 writer to navigate their new world. The important things to include in your
-onboarding are going to depend on your specific context. 
+onboarding are going to depend on your specific context.
 
 For example:
 
--  You're hring a writer to support multiple teams or write content outside
+-  You're hiring a writer to support multiple teams or write content outside
    of product documentation, such as blog posts for community engagement or
    marketing white papers.
 -  Your writer will use the same workflow and tools as software developers
@@ -41,7 +41,7 @@ initial onboarding efforts.
 If you don't have established doc practices, that's ok. The focus will be on
 learning together with your writer and partnering to define the writer role, doc
 lifecycle, and a collaboration model that includes the writer throughout your
-project lifecycle. 
+project lifecycle.
 
 ## Onboarding content
 
@@ -61,10 +61,13 @@ users?
 -  User and community engagement channels (forums, chat rooms)
 -  Issues and pull requests
 
+-  Consider setting up a doc focus group with developers, support
+   - Set up feedback, help
+
 #### Deliverables (Doc output)
 
 What are your doc deliverables? Which ones does your writer own, and which ones
-do they review? 
+do they review?
 
 -  Internal docs
 -  External docs
@@ -81,7 +84,7 @@ Describe users and your stakeholders for your docs.
 #### Users
 
 Provide background on who uses your product or service so that your writer can
-align docs with what your users need. 
+align docs with what your users need.
 
 -  Internal/External
 -  Consumer, enterprise, small business
@@ -105,6 +108,10 @@ Identify the key people who contribute to doc development.
 -  Sales and marketing
 -  Contacts for partner teams
 -  Steering committee members or SIG (special interest group) members
+
+Identify templates appropriate to each group.
+
+Consider setting up onboarding options for others to contribute to docs.
 
 #### Leadership and organizational structure
 
@@ -169,6 +176,9 @@ Identify tools for the following tasks:
       -  [Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
    -  Templates
       -  [The Good Docs Project](http://thegooddocsproject.dev)
+      -  [The Good Docs Project Template](https://docs.google.com/document/d/1HxtaiayAJZvF0ZfNjLvRH3vYMvGTEki_TK8hFilQNJ0/edit)
+-  Vale
+   - [Based on Google Developer Style Guide](https://github.com/errata-ai/Google)
 
 #### Doc lifecycle
 
@@ -193,6 +203,11 @@ project lifecycle.
 
 -  Managing Internal and external feedback (bugs, ratings)
 
+-  Announcements. Find appropriate locations (internal and external)
+   to announce doc updates / releases
+   - May include standup teams, demos, etc.
+   - Define how to sync doc changes to product releases
+
 ### Career
 
 Often information about career expectations and career growth for writers is
@@ -207,7 +222,7 @@ and continue to grow and contribute to your organization's success.
 
 -  Ownership and leadership
 -  Knowledge of the domain and your products/services
--  Impact on the product/service, team, users  
+-  Impact on the product/service, team, users
 Examples could include:
    -  Improved doc coverage
    -  Increased user engagement
